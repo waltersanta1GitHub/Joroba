@@ -10,8 +10,7 @@ import javax.servlet.http.HttpSession;
 
 public class CamelloController extends HttpServlet {
 
-   
-    /**
+       /**
      * Handles the HTTP <code>POST</code> method.
      *
      * @param request servlet request
